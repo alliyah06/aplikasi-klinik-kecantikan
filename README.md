@@ -12,9 +12,13 @@ I0324031/Alliyah Putri Windia N.N.I./https://github.com/alliyah06
 
 Aplikasi penentuan jadwal setiap janji temu, penentuan rincian biaya akhir yang jelas, serta menentukan perawatan yang dibutuhkan sesuai dengan tipe kulit dan permasalahan wajah tiap customer.
 
-Fitur Aplikasi
+# Fitur Aplikasi
 - Pilihan jenis masalah kulit
 - Rekomendasi treatmen sesuai masalah kulit
 - Rekomendasi dokter sesuai masalah kulit
 - Mengatur janji temu dengan dokter
 - Rincian biaya
+
+# Flowchart Program
+![image](https://github.com/user-attachments/assets/eaa0c703-d7a1-40ff-9f56-255a0b1227ac)
+
