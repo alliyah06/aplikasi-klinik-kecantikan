@@ -19,6 +19,10 @@ Aplikasi penentuan jadwal setiap janji temu, penentuan rincian biaya akhir yang 
 - Mengatur janji temu dengan dokter
 - Rincian biaya
 
+# Sitemap 
+![image](https://github.com/user-attachments/assets/1de4090e-d2ee-4c58-b517-f2c52be8bbbc)
+
+
 # Flowchart Main Program
 ![image](https://github.com/user-attachments/assets/eaa0c703-d7a1-40ff-9f56-255a0b1227ac)
 
