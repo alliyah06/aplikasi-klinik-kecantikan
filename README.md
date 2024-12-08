@@ -47,6 +47,8 @@ Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyelu
 ![image](https://github.com/user-attachments/assets/c67a176c-bfdd-42d3-b1e5-24e977d6e697)
 
 # Flowchart Sub Program Perawatan Wajah
+![image](https://github.com/user-attachments/assets/6e30264f-fef3-4760-8e14-5c8a78b99066)
+
 # Flowchart Sub Program Jadwal Konsultasi
 
 
