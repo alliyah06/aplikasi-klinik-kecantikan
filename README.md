@@ -34,7 +34,7 @@ Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyelu
 
 
 # Flowchart Main Program
-![image](https://github.com/user-attachments/assets/44ae4587-608c-492a-bdca-3420443989af)
+
 
 
 # Flowchart Sub Program Login
@@ -50,6 +50,7 @@ Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyelu
 ![image](https://github.com/user-attachments/assets/6e30264f-fef3-4760-8e14-5c8a78b99066)
 
 # Flowchart Sub Program Jadwal Konsultasi
+![image](https://github.com/user-attachments/assets/b29dfb3f-2bc4-4662-8b39-e2f0d8c45a22)
 
 
 
