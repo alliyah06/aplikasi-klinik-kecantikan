@@ -32,7 +32,7 @@ Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyelu
 
 
 # Flowchart Main Program
-![mainflowchartnew](https://github.com/user-attachments/assets/5eae7cdb-915f-46ec-be58-3df9dbb0bef6)
+![image](https://github.com/user-attachments/assets/44ae4587-608c-492a-bdca-3420443989af)
 
 
 # Flowchart Sub Program Login
