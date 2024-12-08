@@ -28,14 +28,14 @@ Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyelu
 - Efisien : Menghemat waktu dalam menentukan perawatan dan dokter yang tepat.  
 
 # Sitemap 
-![image](https://github.com/user-attachments/assets/1de4090e-d2ee-4c58-b517-f2c52be8bbbc)
+![Sitemap Klinik Kecantikan Galiya (1)](https://github.com/user-attachments/assets/22389613-a8cb-49b2-a7f5-0f129d040849)
 
 
 # Flowchart Main Program
-![Main_Program fix](https://github.com/user-attachments/assets/7da7a443-2972-49f4-b400-319e7339b36e)
+![mainflowchartnew](https://github.com/user-attachments/assets/5eae7cdb-915f-46ec-be58-3df9dbb0bef6)
 
 
-# Flowchart Sub Program
+# Flowchart Sub Program Login
 ![image](https://github.com/user-attachments/assets/e1c716c0-223f-4848-b261-99f94ced4e0c)
 
 
