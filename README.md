@@ -40,4 +40,14 @@ Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyelu
 # Flowchart Sub Program Login
 ![image](https://github.com/user-attachments/assets/e1c716c0-223f-4848-b261-99f94ced4e0c)
 
+# Flowchart Sub Program Jenis Kulit
+![image](https://github.com/user-attachments/assets/2e7be2c6-2a95-406b-aef4-d83923bc061c)
+
+# Flowchart Sub Program Masalah Wajah
+
+# Flowchart Sub Program Perawatan Wajah
+# Flowchart Sub Program Jadwal Konsultasi
+
+
+
 
