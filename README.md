@@ -21,11 +21,11 @@ Fitur ini akan memungkinkan pengguna untuk memesan jadwal konsultasi secara dari
 4. Rincian Biaya
 Sebelum dilakukan perawatan, pengguna bisa melihat estimasi biaya secara menyeluruh, mencakup biaya konsultasi dan perawatan, hingga produk yang mungkin direkomendasikan. Hal ini mempermudah pengguna untuk merencanakan anggarannya.  
 
-**Keunggulan Aplikasi**  
-- User-friendly: Mudah digunakan bahkan bagi pengguna pemula.  
-- Personalized : Data pengguna menjadi bahan pertimbangan merekomendasikan sesuatu.  
-- Transparan : Rincian b iaya dan layanan yang jelas.
-- Efisien : Menghemat waktu dalam menentukan perawatan dan dokter yang tepat.  
+**Library yang digunakan**  
+- Pillow
+- Calendar
+
+ 
 
 # Sitemap 
 ![Sitemap Klinik Kecantikan Galiya (1)](https://github.com/user-attachments/assets/22389613-a8cb-49b2-a7f5-0f129d040849)
